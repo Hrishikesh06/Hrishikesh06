@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hrishikesh06
-- 👀 I’m interested in sofyware testing .
+- 👀 I’m interested in software testing .
 - 🌱 I’m currently learning  B.Tech in IT Engg.
 - 💞️ I’m looking to collaborate on Quality testing.
 - 📫 How to reach me you can reach me via my email id 
